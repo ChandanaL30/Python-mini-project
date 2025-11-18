@@ -1,2 +1,2 @@
-# Python-mini-project
-My first mini project is in python 
+# Python-mini-projects
+This repository contains all my basic Python mini projects 
