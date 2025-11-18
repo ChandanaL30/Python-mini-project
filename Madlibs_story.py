@@ -1,0 +1,7 @@
+adjective=input("Enter an adjective:")
+adjective1=input("Enter another adjective:")
+noun=input("Enter a noun:")
+verb=input("Enter a verb:")
+verb1=input("Enter another verb:")
+print("Your Mad Libs Story:\n")
+print(f"Once upon a time, in a lush {adjective} forest, lived a {adjective1} squirrel named squeaky. {noun} loved to {verb} hide-and-seek among the {verb1} trees.")
